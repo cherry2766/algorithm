@@ -1,9 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudiocode,eclipse,intellij,python,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,visualstudiocode,eclipse,intellij,python,java
 
+*.iml
+.idea/
+
 ### Eclipse ###
 .metadata
-.idea/
 bin/
 tmp/
 *.tmp

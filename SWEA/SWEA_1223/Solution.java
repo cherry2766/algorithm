@@ -1,4 +1,4 @@
-package SWEA.calculator2_1223;
+package SWEA_1223;
 
 import java.io.BufferedReader;
 import java.io.IOException;

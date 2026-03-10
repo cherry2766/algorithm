@@ -1,4 +1,4 @@
-package SWEA.millionaireProject_1859;
+package SWEA_1859;
 
 import java.io.BufferedReader;
 import java.io.IOException;

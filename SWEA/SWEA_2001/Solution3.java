@@ -1,4 +1,4 @@
-package SWEA.FlySwatter_2001;
+package SWEA_2001;
 
 import java.util.Scanner;
 

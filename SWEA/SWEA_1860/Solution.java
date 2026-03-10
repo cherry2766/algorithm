@@ -1,4 +1,4 @@
-package SWEA.fishBread_1860;
+package SWEA_1860;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package SWEA.max_2068;
+package SWEA_2068;
 
 import java.util.Scanner;
 

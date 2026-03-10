@@ -1,4 +1,4 @@
-package SWEA.View_1206;
+package SWEA_1206;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

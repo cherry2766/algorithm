@@ -1,4 +1,4 @@
-package SWEA.Sum_1209;
+package SWEA_1209;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

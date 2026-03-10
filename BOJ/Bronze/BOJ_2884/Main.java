@@ -1,4 +1,4 @@
-package BOJ_2884;
+package Bronze.BOJ_2884;
 
 import java.io.*;
 import java.util.*;

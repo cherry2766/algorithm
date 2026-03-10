@@ -1,4 +1,4 @@
-package SWEA.game369_1926;
+package SWEA_1926;
 
 import java.io.BufferedReader;
 import java.io.IOException;

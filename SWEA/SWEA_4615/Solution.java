@@ -1,4 +1,4 @@
-package SWEA.Othello_4615;
+package SWEA_4615;
 
 import java.io.BufferedReader;
 import java.io.IOException;

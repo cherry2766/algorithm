@@ -1,4 +1,4 @@
-package SWEA.palindrome_1989;
+package SWEA_1989;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package SWEA.sortNumbers_1966;
+package SWEA_1966;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package SWEA.zero_8931;
+package SWEA_8931;
 
 import java.io.BufferedReader;
 import java.io.IOException;

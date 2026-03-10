@@ -1,4 +1,4 @@
-package SWEA.sumOfTwoNumbers_6190;
+package SWEA_6190;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package SWEA.string_1213;
+package SWEA_1213;
 
 import java.io.BufferedReader;
 import java.io.IOException;

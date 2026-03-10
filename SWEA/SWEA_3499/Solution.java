@@ -1,4 +1,4 @@
-package SWEA.perfectShuffle_3499;
+package SWEA_3499;
 
 import java.io.BufferedReader;
 import java.io.IOException;

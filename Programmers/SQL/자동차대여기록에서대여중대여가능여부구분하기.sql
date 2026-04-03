@@ -1,0 +1,21 @@
+WITH RENTAL_STATUS AS (
+    SELECT
+        CAR_ID,
+        CASE
+            WHEN START_DATE <= '2022-10-16'
+            AND END_DATE >= '2022-10-16'
+            THEN 1
+            ELSE 0
+        END AS IS_RENTED
+    FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+)
+
+SELECT
+    CAR_ID,
+    CASE
+        WHEN MAX(IS_RENTED) = 1 THEN '대여중'
+        ELSE '대여 가능'
+    END AS AVAILABILITY
+FROM RENTAL_STATUS
+GROUP BY CAR_ID
+ORDER BY CAR_ID DESC;
